@@ -1,0 +1,175 @@
+@charset "utf-8";
+@import url("../webfonts/lalezar/stylesheet.css");
+
+.bg-rosaclaro {
+    background-color: #F9D6DA;
+}
+textocentral {
+    list-style-position: inside;
+}
+
+.mt-7 {
+}
+.textocentral {
+    padding-left: 345px;
+    padding-right: 352px;
+
+
+}
+.bg-verdeclaro {
+    background-color: #DFE6CF;
+}
+.textosubtitulo {
+    color: #000000;
+    font-family: lalezar;
+    text-transform: capitalize;
+    font-size: 19pt;
+}
+.imagencolec {
+    background-image: url(../imagenes/icoleccion.jpg);
+    background-repeat: no-repeat;
+    background-origin: content-box;
+    /* [disabled]background-clip: content-box; */
+    background-size: 319px auto;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    background-position: 192%
+%;
+    background-position: 137% 51%;
+}
+.imapersonaliza {
+    border-bottom-right-radius: 860px 1058px;
+    border-top-right-radius: 860px 1058px;
+    /* [disabled]border-top-left-radius: 860px 849px; */
+    border-style: none;
+    background-repeat: no-repeat;
+    background-image: url(../imagenes/imagenpersonaliza.jpg);
+    background-position: 101% 6%;
+}
+.colortexto {
+    color: #E05C64;
+}
+
+
+
+.carousel-item.bg-rosaclaro .carousel-caption .bg-verdeclaro {
+}
+.textocortocarru {
+    color: #000000;
+    font-family: Montserrat;
+    font-size: 17px;
+    font-weight: 400;
+}
+.col-lg-6 .jumbotron.bg-verdeclaro .btn.btn-lg.btnañadir {
+}
+.imagensets {
+    background-image: url(../imagenes/sets.jpg);
+    background-repeat: no-repeat;
+    background-size: 268px auto;
+    background-position: 104% 0%;
+}
+
+
+
+
+.mxcarrusel {
+    margin-left: 142px;
+}
+.mxtextocarrusel {
+    margin-left: 402px;
+    margin-bottom: 94px;
+}
+.espaciado1 {
+    margin-top: 74px;
+}
+.textotitulos {
+    font-family: lalezar;
+    font-size: 45px;
+}
+.btnañadir {
+    background-color: #DBDADA;
+    border-color: #E29398;
+    border-width: 1.5pt;
+    color: #E29398;
+    font-family: Montserrat;
+    font-weight: bold;
+}
+.textocuerpo {
+    font-family: Montserrat;
+    font-size: 17px;
+}
+.textoprecio {
+    font-family: Montserrat;
+    font-weight: 600;
+}
+.textosubtitulo2 {
+    font-family: Montserrat;
+    font-weight: 700;
+}
+.textocentro {
+    /* [disabled]-webkit-box-sizing: content-box; */
+    /* [disabled]-moz-box-sizing: content-box; */
+    /* [disabled]box-sizing: content-box; */
+    margin-left: 135px;
+    margin-right: 135px;
+}
+.btnvermas {
+    font-family: Montserrat;
+    font-weight: 300;
+    font-size: 16px;
+    color: #AEAEAE;
+}
+.textosubtitulo3 {
+    font-family: Montserrat;
+    font-weight: 600;
+    font-size: 15pt;
+}
+.colorletra {
+    color: #000000;
+}
+.circulo1 {
+    float: right;
+    margin-top: 24px;
+    margin-right: -19px;
+
+
+
+}
+.bordes {
+    border-bottom-right-radius: 1417px 715px;
+    border-top-right-radius: 736px 720px;
+}
+.textojumbo {
+    margin-right: 689px;
+}
+.circulo2 {
+    margin-right: -401px;
+    margin-top: 160px;
+
+}
+.espaciadoj {
+    margin-top: 182px;
+}
+
+.espaciado2 {
+    margin-top: 239px;
+}
+.espaciado3 {
+    margin-top: 167px;
+}
+.circulo3 {
+    margin-top: 129px;
+    margin-right: -245px;
+}
